@@ -1,4 +1,4 @@
-You will be loggedin as bandit0 after level0
+You will be logged in as bandit0 after level0
 ```
 ls
 ```
