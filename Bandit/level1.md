@@ -6,7 +6,7 @@ Open the readme file using cat command
 ```
 cat readme
 ```
-## Password
+## Password for next level
 ```
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
