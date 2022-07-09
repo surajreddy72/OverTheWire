@@ -1,0 +1,4 @@
+command:
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+press yes and then enter the password i.e bandit0
