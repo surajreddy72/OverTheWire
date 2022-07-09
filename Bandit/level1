@@ -1,0 +1,21 @@
+You will be loggedin as bandit0 after level0
+
+Check for readme file use
+
+ls
+
+If u are lost use cd to navigate to bandit0 directory
+
+Open the readme file using cat command
+
+cat readme
+
+Copy the password i.e boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+
+Then logout as bandit0 by using exit command
+
+Then login as bandit1 to bandit.labs.overthewire.org
+
+bandit1@bandit.labs.overthewire.org -p 2220
+
+Password is copied above
