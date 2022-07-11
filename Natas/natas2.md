@@ -2,6 +2,7 @@ Check view page source
 
 You will find some information leak 
 i.e
+
 <img src = https://github.com/surajreddy72/OverTheWire/blob/main/Natas/natas2.jpg />
 
 
