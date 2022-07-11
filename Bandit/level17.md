@@ -26,9 +26,9 @@ Then we need to submit our current password to that port
 ```
 nc localhost 31790
 ```
-Paste the password 
+Paste the current password 
 ```
- cluFn7wTiGryunymYOu4RcffSxQluehd
+cluFn7wTiGryunymYOu4RcffSxQluehd
  ```
  
  
