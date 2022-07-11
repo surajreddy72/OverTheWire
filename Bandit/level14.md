@@ -1,6 +1,6 @@
 Given we have a private SSH key 
 
-So try to login as bandit14 using that key
+So try to login as bandit14 in localhost (Given Hostname)using that key
 ```
 ssh bandit14@localhost -i sshkey.private
 ```
