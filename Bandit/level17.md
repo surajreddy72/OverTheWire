@@ -24,11 +24,12 @@ port 31790
 ```
 Then we need to submit our current password to that port 
 ```
-nc localhost 31790
+openssl s_client -connect localhost:31790
 ```
 Paste the current password 
 ```
 cluFn7wTiGryunymYOu4RcffSxQluehd
  ```
+ Returns you a ***private key***
  
  
