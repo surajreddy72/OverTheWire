@@ -1,8 +1,9 @@
 Go to View Page Source given that not even google will find it
 
-People keep a robots.txt file on the webpage to mention the search engines not
-to enter 
-Wanna know more about robots.txt Check here <href = http://www.robotstxt.org/robotstxt.html/>
+People keep a robots.txt file on the webpage to mention the search engines not to enter.
+
+ [Click here](http://www.robotstxt.org/robotstxt.html) to know more about robots.txt
+
 
 So went to 
 ```
