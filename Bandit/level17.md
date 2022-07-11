@@ -31,5 +31,24 @@ Paste the current password
 cluFn7wTiGryunymYOu4RcffSxQluehd
  ```
  Returns you a ***private key***
+  
+ __Copy the private key__
  
+ Now we need to store the private key Remember we cant create a file on current working directory
+ So we create our directory in tmp
+ ```
+ cd /tmp
+ mkdir blahblah
+ cd blahblah
+ ```
+ After entering the blahblah directory :
+ create a file to save the Private Key
+ ```
+ cat > blahblah
+ ```
+ Paste the private key copied and to exit press ctrl + D
  
+ Then try to login into localhost using private key
+ ```
+ ssh bandit17@localhost -i blahblah
+ ```
