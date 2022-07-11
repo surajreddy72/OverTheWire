@@ -1,6 +1,6 @@
-# Check out man nmap
+# Check out ``` man nmap ```
 
-nmap -p (portranges) <IP/host>
+nmap -p <portranges> <IP/host>
 
 -p is used to scan for specified ports
 
@@ -27,3 +27,8 @@ Then we need to submit our current password to that port
 nc localhost 31790
 ```
 Paste the password 
+```
+ cluFn7wTiGryunymYOu4RcffSxQluehd
+ ```
+ 
+ 
