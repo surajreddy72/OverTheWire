@@ -11,7 +11,7 @@ But did not get the Services which the ports correspond
 The services report that the ports correspond to mail server(SMTP),web server(HTTP),Name server(DNS)
 TCP port 25 are main servers
 
-** So for detecting the versions and services of ports we use -sV ** 
+**So for detecting the versions and services of ports we use -sV** 
 
 ``` 
 nmap -sV localhost -p 31000-32000
